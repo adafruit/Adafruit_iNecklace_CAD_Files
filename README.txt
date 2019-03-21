@@ -1,1 +1,0 @@
-These are just the CAD files for the machined pendant. The firmware and PCB files are identical to the iCufflinks, so check out https://github.com/adafruit/iCufflinks for PCB and firmware files
